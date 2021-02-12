@@ -1,0 +1,12 @@
+{
+  "name": "@eth-optimism/dev",
+  "version": "1.0.0",
+  "files": [
+    "tsconfig.json",
+    "tslint.json",
+    "prettier-config.json"
+  ],
+  "repository": "git@github.com:ethereum-optimism/dev.git",
+  "author": "Optimism PBC",
+  "license": "MIT"
+}
