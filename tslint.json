@@ -1,9 +1,5 @@
 {
-    "extends": [
-        "tslint:latest",
-        "tslint-config-prettier",
-        "tslint-plugin-prettier"
-    ],
+    "extends": "@eth-optimism/dev/tslint.json",
     "rulesDirectory": [
         "tslint-no-focused-test"
     ],
